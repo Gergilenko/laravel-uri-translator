@@ -1,6 +1,6 @@
 # Laravel URI Translator
 
-[![GitHub release](https://img.shields.io/github/release/codezero-be/laravel-uri-translator.svg?style=flat-square)](https://github.com/codezero-be/laravel-uri-translator/releases)
+[![GitHub release](https://img.shields.io/github/release/gergilenko/laravel-uri-translator.svg?style=flat-square)](https://github.com/codezero-be/laravel-uri-translator/releases)
 [![Laravel](https://img.shields.io/badge/laravel-12-red?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
 [![License](https://img.shields.io/packagist/l/codezero/laravel-uri-translator.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/codezero-be/laravel-uri-translator/run-tests.yml?style=flat-square&logo=github&logoColor=white&label=tests)](https://github.com/codezero-be/laravel-uri-translator/actions)
